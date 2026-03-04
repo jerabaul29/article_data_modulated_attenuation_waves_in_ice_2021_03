@@ -4,4 +4,10 @@ The data, code, and supporting evidence for our paper about wave in ice modulate
 
 Link to the paper: [https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2619/](https://tc.copernicus.org/articles/19/6229/2025/) .
 
-Link to the preprint: https://arxiv.org/abs/2401.07619 .
+## Paper erratum
+
+- Fig. 10 has a typo / bug in the XTicks, the correct figure is:
+
+![correct_image](Fig10_axTick_corrected.png)
+
+
